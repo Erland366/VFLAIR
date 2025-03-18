@@ -25,9 +25,8 @@ datasets==2.16.1
 huggingface-hub==0.20.3
 PyMySQL==1.1.0
 python-multipart==0.0.7
-mysqlclient==2.2.1
 jinja2
 loguru
-peft
+peft==0.13.0
 sentencepiece
 nltk

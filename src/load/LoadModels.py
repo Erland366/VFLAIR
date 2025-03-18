@@ -45,7 +45,7 @@ from models.autoencoder import *
 from utils.optimizers import MaliciousSGD, MaliciousAdam
 from config import vfl_basic_config
 
-YOUR_MODEL_PATH = "/home/DAIR/guzx/Git_FedProject/Models/"
+YOUR_MODEL_PATH = "/home/erland.fuadi/Python_Project/VFLAIR/my_models"
 MODEL_PATH = {
     'bert-base-uncased': YOUR_MODEL_PATH + "bert-base-uncased",
     "textattackbert-base-uncased-CoLA": YOUR_MODEL_PATH + "textattackbert-base-uncased-CoLA",
